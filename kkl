@@ -1,0 +1,73 @@
+                 nav {
+                        height: 80px;
+                    }
+                
+                    nav ul {
+                
+                    }
+                    nav  ul li {
+                    inset-block: none;
+                    list-style-type: none;
+                    width: 125px;
+                    float: left;
+                    text-align: center;
+                }
+                
+                nav ul li a {
+                    text-decoration: none;
+                    color: white;
+                    line-height: 80px;
+                    text-align: center;
+                }
+                
+                div h1 {
+                    text-align: center;
+                    color: white;
+                }
+
+                div p {
+                    color: white;
+                    font-size: 25px;
+                    text-align: center;
+                    margin: 5%;
+
+                }
+                
+                div h4{
+                    color: white;
+                    font-size: 25px;
+                    text-align: center;
+                    margin: 5%;
+                }    div h3 {
+                    color: white;
+                    font-size: 25px;
+                    text-align: center;
+                    margin: 5%;
+                }
+                
+                div h5 {
+                    color: white;
+                    font-size: 25px;
+                    text-align: center;
+                    margin: 5%;
+
+                }
+                th {
+                     text-align: center;
+                }
+
+                th, td {
+  padding: 15px;
+}
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.img {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    padding: 2px;
+}
+

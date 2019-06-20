@@ -1,0 +1,38 @@
+nav {
+    height: 80px;
+}
+
+nav ul {
+
+}
+nav  ul li {
+inset-block: none;
+list-style-type: none;
+width: 150px;
+float: left;
+text-align: center;
+}
+div img {
+float: center;}
+nav ul li a {
+text-decoration: none;
+color: white;
+line-height: 80px;
+text-align: center;
+}
+div h1 {
+    color: white;
+}
+div p {
+text-align: center;
+color: white;
+float: center;
+}
+
+body {
+padding: 0px;
+margin: 0px;
+}
+
+body.she {background-image: url("mm.gif");}
+

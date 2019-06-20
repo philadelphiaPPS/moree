@@ -1,0 +1,85 @@
+                    nav {
+                        height: 80px;
+                    }
+                
+                    nav ul {
+                
+                    }
+                    nav  ul li {
+                    inset-block: none;
+                    list-style-type: none;
+                    width: 125px;
+                    float: left;
+                    text-align: left;
+                    font-size: 20px;
+                    color: white;
+                }
+                
+                nav ul li a {
+                    text-decoration: none;
+                    color: white;
+                    line-height: 80px;
+                    text-align: left;
+                    font-size: 20px;
+                }
+                
+                
+
+                div p {
+                    color: white;
+                    font-size: 20px;
+                    text-align: left;
+
+                }
+                div h4{
+                    color: white;
+                    font-size: 30px;
+                    float: center;
+                }    div h3 {
+                    color: white;
+                    font-size: 30px;
+                    text-align: left;
+                }
+                
+                div h5 {
+                    color: white;
+                    font-size: 30px;
+                    text-align: left;
+
+                }
+                div h2 {
+                    color: white;
+                    font-size: 30px;
+                    text-align: left;
+                    margin: 0%;
+
+
+                } div iframe {
+                    align-content: center;
+
+                }
+                th {
+                     text-align: center;
+                }
+        div h1{
+color: black;
+        }
+
+
+                th, td {
+  padding: 30px;
+}
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+div img {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    padding: 2px;
+}
+
+                body.she {background-image: url("kk.png");}
+                
